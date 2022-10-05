@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creator H also known as Coder H
--    I'm working a prototype of Shortcut in program called Jocasta
+-    I'm working a prototype of programs like artificial intelligence but not very updated once.
 
 - 📫 How to reach me --By Email/Gmail--Coder.h.net@gmail.com
 
