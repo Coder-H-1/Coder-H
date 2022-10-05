@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Creator H also known as Coder H
--    I'm working a prototype of programs like artificial intelligence but not very updated once.
+-    I'm working on a prototype like artificial intelligence but not very updated.
 
 - 📫 How to reach me --By Email/Gmail--Coder.h.net@gmail.com
 
