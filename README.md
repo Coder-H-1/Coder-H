@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Creator H also known as Coder H
 -    I'm working on a prototype like artificial intelligence but not very updated.
-
--    Working on J.A.R.V.I.S in exe form
-
+-    I'm a Python Coder
 - 📫 How to reach me --By Email/Gmail--  Dhiman.h.github@gmail.com
 
 <!---
