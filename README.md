@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Creator H also known as Coder H
--    I'm working on a prototype like artificial intelligence but not very updated.
--    I'm a Python Coder
-- 📫 How to reach me --By Email/Gmail--  Dhiman.h.github@gmail.com
+-    I'm trying to learning embedded softwares and Machine Learning in python.
 
-<!---
-Creator-of-Jocasta/Creator-of-Jocasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-    All the codes and Ideas present (for now) are just for test and are sample. They, May or May not, work for all.
+
+ 
+
+- 📫 How to reach me --By Email/Gmail--  coder.h.github@gmail.com
